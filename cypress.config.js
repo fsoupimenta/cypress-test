@@ -13,6 +13,12 @@ module.exports = defineConfig({
     },
     "env": {
       BASE_URL: 'http://localhost:3000'
-    }
+    },
+      "reporter": "cypress-sonarqube-reporter",
+      "reporterOptions": {
+        "overwrite": true,
+        "preserveSpecsDir": false,
+        "outputDir": "coverage/xml-reports/"
+      }
   }
 });
