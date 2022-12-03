@@ -12,7 +12,7 @@ module.exports = defineConfig({
         "overwrite": true
     },
     "env": {
-      BASE_URL: 'http://localhost:1300'
+      BASE_URL: 'http://localhost:3000'
     }
   }
 });
