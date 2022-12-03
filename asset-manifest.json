@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cypress-test/static/css/main.7147f45f.css",
+    "main.js": "/cypress-test/static/js/main.6c562a66.js",
+    "static/js/787.eabfca1f.chunk.js": "/cypress-test/static/js/787.eabfca1f.chunk.js",
+    "index.html": "/cypress-test/index.html",
+    "main.7147f45f.css.map": "/cypress-test/static/css/main.7147f45f.css.map",
+    "main.6c562a66.js.map": "/cypress-test/static/js/main.6c562a66.js.map",
+    "787.eabfca1f.chunk.js.map": "/cypress-test/static/js/787.eabfca1f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7147f45f.css",
+    "static/js/main.6c562a66.js"
+  ]
+}
