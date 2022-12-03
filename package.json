@@ -1,6 +1,7 @@
 {
   "name": "study_react",
   "version": "0.1.0",
+  "homepage": "https://fsoupimenta.github.io/cypress-test",
   "private": true,
   "dependencies": {
     "@cypress/instrument-cra": "^1.4.0",
@@ -16,7 +17,9 @@
     "start": "react-scripts -r @cypress/instrument-cra start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -39,7 +42,8 @@
   "devDependencies": {
     "@cypress/code-coverage": "^3.10.0",
     "babel-plugin-istanbul": "^6.1.1",
-    "cypress": "^11.2.0"
+    "cypress": "^11.2.0",
+    "gh-pages": "^4.0.0"
   },
   "nyc": {
     "sourceMap": false,
