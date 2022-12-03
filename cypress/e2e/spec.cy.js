@@ -1,6 +1,6 @@
 describe('My First Test', () => {
   it('Does not do much!', () => {
-      cy.visit('http://localhost:3000')
+      cy.visit(Cypress.env('BASE_URL'))
       cy.get('.add-task-input').type('Malhar')
       cy.get('.button').click()
       cy.get('.container > :nth-child(2)').should('contain', 'Estudar Programação')
