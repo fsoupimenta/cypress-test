@@ -19,9 +19,9 @@ jobs:
       - name: 📦 Install dependencies
         run: |
           npm ci
-          npm install -D cypress-sonarqube-reporter sonarqube-scanner --force
           npx nyc instrument --compact=false src instrumented
           npm install -D @cypress/code-coverage
+          npm install -D cypress-sonarqube-reporter sonarqube-scanner --legacy-peer-deps
     
       - name: 🧪 Run Cypress Test
         uses: cypress-io/github-action@v4
