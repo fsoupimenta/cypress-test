@@ -29,6 +29,11 @@ jobs:
           env: BASE_URL=${{ secrets.BASE_URL }}
           quiet: false
           
+      - name: fix code coverage paths
+        working-directory: ./coverage
+        run: |
+          sed -i 's/\/home\/runner\/work\/cypress-test\/cypress-test\//\/github\/workspace\//g' lcov.info
+          
       - name: SonarCloud Scan
         uses: SonarSource/sonarcloud-github-action@master
         env:
