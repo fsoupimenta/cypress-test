@@ -18,9 +18,7 @@ jobs:
        
       - name: 📦 Install dependencies
         run: |
-          npm ci
-          npx nyc instrument --compact=false src instrumented
-          npm install -D @cypress/code-coverage
+          npm install
     
       - name: 🧪 Run Cypress Test
         uses: cypress-io/github-action@v4
