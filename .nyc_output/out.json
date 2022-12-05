@@ -1,6 +1,6 @@
 {
-  "C:\\Users\\ferso\\OneDrive\\Documentos\\Faculdade\\cypress-test\\src\\components\\Button.jsx": {
-    "path": "C:\\Users\\ferso\\OneDrive\\Documentos\\Faculdade\\cypress-test\\src\\components\\Button.jsx",
+  "/Users/laviniabeghinidecastro/Documents/GitHub/cypress-test/src/components/Button.jsx": {
+    "path": "/Users/laviniabeghinidecastro/Documents/GitHub/cypress-test/src/components/Button.jsx",
     "statementMap": {
       "0": {
         "start": {
@@ -51,18 +51,18 @@
     },
     "branchMap": {},
     "s": {
-      "0": 5,
-      "1": 62
+      "0": 1,
+      "1": 16
     },
     "f": {
-      "0": 62
+      "0": 16
     },
     "b": {},
     "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
-    "hash": "ace96b1de353dd2d6cbd7670f20f93dacbab5eed"
+    "hash": "1c487b3a5843f0b9eac737148d7443c5bf504b2b"
   },
-  "C:\\Users\\ferso\\OneDrive\\Documentos\\Faculdade\\cypress-test\\src\\components\\AddTask.jsx": {
-    "path": "C:\\Users\\ferso\\OneDrive\\Documentos\\Faculdade\\cypress-test\\src\\components\\AddTask.jsx",
+  "/Users/laviniabeghinidecastro/Documents/GitHub/cypress-test/src/components/AddTask.jsx": {
+    "path": "/Users/laviniabeghinidecastro/Documents/GitHub/cypress-test/src/components/AddTask.jsx",
     "statementMap": {
       "0": {
         "start": {
@@ -211,25 +211,25 @@
     },
     "branchMap": {},
     "s": {
-      "0": 5,
-      "1": 62,
-      "2": 62,
-      "3": 24,
-      "4": 62,
-      "5": 2,
-      "6": 62
+      "0": 1,
+      "1": 16,
+      "2": 16,
+      "3": 6,
+      "4": 16,
+      "5": 1,
+      "6": 16
     },
     "f": {
-      "0": 62,
-      "1": 24,
-      "2": 2
+      "0": 16,
+      "1": 6,
+      "2": 1
     },
     "b": {},
     "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
-    "hash": "2c87d8a3a28b10f3fb636643784307a007a822df"
+    "hash": "5b523e3bb643470569c5878406eed202829bce36"
   },
-  "C:\\Users\\ferso\\OneDrive\\Documentos\\Faculdade\\cypress-test\\src\\components\\Task.jsx": {
-    "path": "C:\\Users\\ferso\\OneDrive\\Documentos\\Faculdade\\cypress-test\\src\\components\\Task.jsx",
+  "/Users/laviniabeghinidecastro/Documents/GitHub/cypress-test/src/components/Task.jsx": {
+    "path": "/Users/laviniabeghinidecastro/Documents/GitHub/cypress-test/src/components/Task.jsx",
     "statementMap": {
       "0": {
         "start": {
@@ -280,18 +280,18 @@
     },
     "branchMap": {},
     "s": {
-      "0": 5,
-      "1": 32
+      "0": 1,
+      "1": 10
     },
     "f": {
-      "0": 32
+      "0": 10
     },
     "b": {},
     "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
-    "hash": "85db8dffc74e6a8bf6e10c5f3ebb1b17a1249ed2"
+    "hash": "64d9077d09b2f3f450ce27f8305ef88a6bdd2c70"
   },
-  "C:\\Users\\ferso\\OneDrive\\Documentos\\Faculdade\\cypress-test\\src\\components\\Tasks.jsx": {
-    "path": "C:\\Users\\ferso\\OneDrive\\Documentos\\Faculdade\\cypress-test\\src\\components\\Tasks.jsx",
+  "/Users/laviniabeghinidecastro/Documents/GitHub/cypress-test/src/components/Tasks.jsx": {
+    "path": "/Users/laviniabeghinidecastro/Documents/GitHub/cypress-test/src/components/Tasks.jsx",
     "statementMap": {
       "0": {
         "start": {
@@ -376,20 +376,20 @@
     },
     "branchMap": {},
     "s": {
-      "0": 5,
-      "1": 14,
-      "2": 32
+      "0": 1,
+      "1": 4,
+      "2": 10
     },
     "f": {
-      "0": 14,
-      "1": 32
+      "0": 4,
+      "1": 10
     },
     "b": {},
     "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
-    "hash": "3f251524f5dd7150727ba1e9b85445439f4ec3fb"
+    "hash": "857ba4c749b6e6902608ae484fa9ab7c32680620"
   },
-  "C:\\Users\\ferso\\OneDrive\\Documentos\\Faculdade\\cypress-test\\src\\App.jsx": {
-    "path": "C:\\Users\\ferso\\OneDrive\\Documentos\\Faculdade\\cypress-test\\src\\App.jsx",
+  "/Users/laviniabeghinidecastro/Documents/GitHub/cypress-test/src/App.jsx": {
+    "path": "/Users/laviniabeghinidecastro/Documents/GitHub/cypress-test/src/App.jsx",
     "statementMap": {
       "0": {
         "start": {
@@ -538,25 +538,25 @@
     },
     "branchMap": {},
     "s": {
-      "0": 5,
-      "1": 19,
-      "2": 14,
-      "3": 2,
-      "4": 2,
+      "0": 1,
+      "1": 5,
+      "2": 4,
+      "3": 1,
+      "4": 1,
       "5": 0,
-      "6": 14
+      "6": 4
     },
     "f": {
-      "0": 19,
-      "1": 2,
+      "0": 5,
+      "1": 1,
       "2": 0
     },
     "b": {},
     "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
-    "hash": "8b12f9cc73ffa519794795528a6a00c961b61199"
+    "hash": "cd3f9ee5fe51ede5bbee59c0f126c87ddf15738f"
   },
-  "C:\\Users\\ferso\\OneDrive\\Documentos\\Faculdade\\cypress-test\\src\\reportWebVitals.js": {
-    "path": "C:\\Users\\ferso\\OneDrive\\Documentos\\Faculdade\\cypress-test\\src\\reportWebVitals.js",
+  "/Users/laviniabeghinidecastro/Documents/GitHub/cypress-test/src/reportWebVitals.js": {
+    "path": "/Users/laviniabeghinidecastro/Documents/GitHub/cypress-test/src/reportWebVitals.js",
     "statementMap": {
       "0": {
         "start": {
@@ -764,8 +764,8 @@
       }
     },
     "s": {
-      "0": 5,
-      "1": 5,
+      "0": 1,
+      "1": 1,
       "2": 0,
       "3": 0,
       "4": 0,
@@ -774,24 +774,24 @@
       "7": 0
     },
     "f": {
-      "0": 5,
+      "0": 1,
       "1": 0
     },
     "b": {
       "0": [
         0,
-        5
+        1
       ],
       "1": [
-        5,
+        1,
         0
       ]
     },
     "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
-    "hash": "d2585a61dbcbdcc2b5e231eeec86fa6862dcdf74"
+    "hash": "5864f6da8648c7dee1a361df32027b7ae10b10cb"
   },
-  "C:\\Users\\ferso\\OneDrive\\Documentos\\Faculdade\\cypress-test\\src\\index.js": {
-    "path": "C:\\Users\\ferso\\OneDrive\\Documentos\\Faculdade\\cypress-test\\src\\index.js",
+  "/Users/laviniabeghinidecastro/Documents/GitHub/cypress-test/src/index.js": {
+    "path": "/Users/laviniabeghinidecastro/Documents/GitHub/cypress-test/src/index.js",
     "statementMap": {
       "0": {
         "start": {
@@ -827,13 +827,13 @@
     "fnMap": {},
     "branchMap": {},
     "s": {
-      "0": 5,
-      "1": 5,
-      "2": 5
+      "0": 1,
+      "1": 1,
+      "2": 1
     },
     "f": {},
     "b": {},
     "_coverageSchema": "1a1c01bbd47fc00a2c39e90264f33305004495a9",
-    "hash": "0eb5a0a8446ef548b2355c8ab681092a1413d93a"
+    "hash": "e1fe5a339e4e1987d00968878907554c36b4effc"
   }
 }
