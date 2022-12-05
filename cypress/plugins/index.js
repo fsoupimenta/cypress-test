@@ -8,11 +8,11 @@
     
     require('@cypress/code-coverage/task')(on, config);
 
-    on('after:run', (results) => {
-        return require('cypress-sonarqube-reporter/mergeReports')(results, {
-        mergeFileName: "sonar.xml"
-        })
-    })
+    // on('after:run', (results) => {
+    //     return require('cypress-sonarqube-reporter/mergeReports')(results, {
+    //     mergeFileName: "sonar.xml"
+    //     })
+    // })
        
 
     return config;

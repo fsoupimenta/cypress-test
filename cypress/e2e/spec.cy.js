@@ -1,4 +1,4 @@
-const specTitle = require("cypress-sonarqube-reporter/specTitle");
+// const specTitle = require("cypress-sonarqube-reporter/specTitle");
 
 describe(specTitle('My First Test'), () => {
   it('Does not do much!', () => {
