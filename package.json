@@ -4,7 +4,6 @@
   "homepage": "https://fsoupimenta.github.io/cypress-test",
   "private": true,
   "dependencies": {
-    "@cypress/instrument-cra": "^1.4.0",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
@@ -41,8 +40,8 @@
   },
   "devDependencies": {
     "@cypress/code-coverage": "^3.10.0",
-    "babel-plugin-istanbul": "^6.1.1",
-    "cypress-sonarqube-reporter": "^1.11.0",
+    "@cypress/instrument-cra": "^1.4.0",
+    "cypress": "^11.2.0",
     "gh-pages": "^4.0.0",
     "sonarqube-scanner": "^2.9.1"
   },
