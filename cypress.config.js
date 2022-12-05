@@ -8,8 +8,10 @@ module.exports = defineConfig({
       require('./cypress/plugins/index.js')(on, config)
       return config
     },
-    "reporterOptions": {
-        "overwrite": true
+      "reporterOptions": {
+      "overwrite": true,
+      "preserveSpecsDir": false,
+      "outputDir": "coverage/xml-reports/"
     },
     "env": {
       BASE_URL: 'http://localhost:3000'

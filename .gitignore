@@ -11,6 +11,8 @@
 # production
 /build
 
+/.scannerwork
+
 # misc
 .DS_Store
 .env.local
@@ -35,3 +37,5 @@ cypress/screenshots/*
 cypress/videos/*
 
 # End of https://www.toptal.com/developers/gitignore/api/cypressio
+.nyc_output/out.json
+.nyc_output/out.json

@@ -43,7 +43,9 @@
     "@cypress/code-coverage": "^3.10.0",
     "babel-plugin-istanbul": "^6.1.1",
     "cypress": "^11.2.0",
-    "gh-pages": "^4.0.0"
+    "cypress-sonarqube-reporter": "^1.11.0",
+    "gh-pages": "^4.0.0",
+    "sonarqube-scanner": "^2.9.1"
   },
   "nyc": {
     "sourceMap": false,

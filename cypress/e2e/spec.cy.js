@@ -1,4 +1,6 @@
-describe('My First Test', () => {
+const specTitle = require("cypress-sonarqube-reporter/specTitle");
+
+describe(specTitle('My First Test'), () => {
   it('Does not do much!', () => {
       cy.visit(Cypress.env('BASE_URL'))
       cy.get('.add-task-input').type('Malhar')
