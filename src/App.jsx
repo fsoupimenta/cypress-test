@@ -29,10 +29,6 @@ const App = () => {
         setTasks(newTask);
     };
 
-    function sum (a, b){
-        return a + b;
-    }
-
     return (
         <div className="container">
             <AddTasks handleTaskAddition={handleTaskAddition} />
