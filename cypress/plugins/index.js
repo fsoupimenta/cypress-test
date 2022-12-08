@@ -2,7 +2,7 @@
 /**
  * 
  * @type {Cypress.PluginConfig}
- */require("@cypress/instrument-cra");
+ */
  module.exports = (on, config) => {
     // https://docs.cypress.io/api/plugins/after-run-api
     
